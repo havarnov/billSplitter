@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bill Splitter</string>
+    <string name="title">Bill Splitter</string>
+    <string name="name">Name</string>
+    <string name="pay">Payed</string>
+    <string name="submit">Submit</string>
+    <string name="test">Name</string>
+    <string name="test2">Amount</string>
+                
+</resources>
